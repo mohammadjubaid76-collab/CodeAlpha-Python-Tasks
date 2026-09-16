@@ -65,9 +65,6 @@ CodeAlpha-Python-Tasks/
 ├── Task-1/
 │   └── hangman.py
 │
-├── Task-3/
-│   └── task3.py
-│
 ├── Task-4/
 │   └── chatbot.py
 │
